@@ -1,2 +1,3 @@
-# cefe-jurisprudencia
-App jurídica CEFE para búsqueda de jurisprudencia argentina
+# CEFE
+Proyecto base CEFE Jurisprudencia IA
+Subir a Github y desplegar en Vercel.
